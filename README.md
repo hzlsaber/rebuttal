@@ -86,7 +86,7 @@ Both AIGI-Holmes and ThinkFake are limited to binary classification with textual
 
 ### Table 6: Expanded baseline comparison on So-Fake-OOD. Methods marked with † are newly added during the rebuttal period.
 
-![So-Fake-OOD Baselines](contents/sofake_ood_baselines.png)
+![So-Fake-OOD Baselines](contents/baselines.png)
 
 We have expanded our evaluation with five additional strong detection baselines: Community-Forensics (2025), AIDE (2025), EFFORT (2025), C2P-CLIP (2025), and DDA (2025). All baselines are evaluated under the same setting on So-Fake-OOD. So-Fake-R1 achieves the highest accuracy among all compared methods.
 
